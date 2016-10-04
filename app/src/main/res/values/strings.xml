@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android CheckBox</string>
+    <string name="custom_checkbox_demo">Custom CheckBox demo</string>
+    <string name="default_checkbox_demo">Default CheckBox demo</string>
+    <string name="get_all_checked_values">Get all checked values</string>
+    <string name="cricket">Cricket</string>
+    <string name="football">Football</string>
+    <string name="chess">Chess</string>
+</resources>
